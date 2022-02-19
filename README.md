@@ -1,2 +1,7 @@
 # Web-Scraping-Lkd
-Aqui faço um simples webscraping para entrar no LinkedIn e fazer a coleta de dados de pessoas.
+***Coleta de dados***
+*by [Yago Pacheco](https://www.linkedin.com/in/yago-pacheco-de-aquino-958881183/)*
+
+---
+
+Fazer uma simples coletas de dados do LinkedIn.
